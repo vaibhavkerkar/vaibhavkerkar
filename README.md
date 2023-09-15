@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vaibhavkerkar
 - 👀 I’m interested in Clinical trials, Statistics and programming on work front and photography, cooking on personal front
 - 🌱 I’m currently learning R programming in clinical trials reporting and setup
-- 💞️ I’m looking to collaborate on R programming in clinical trials and setting up.
+- 💞️ I’m looking to collaborate on R programming in clinical trials and set up.
 - 📫 How to reach me: vaibhavkerkar@gmail.com or Linkedin
 
 <!---
